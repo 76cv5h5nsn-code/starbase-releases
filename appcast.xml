@@ -6,16 +6,16 @@
     <description>Starbase Updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.0</title>
-      <description>Hub Tiles scroll fix, Re-export Stored PDFs on all tiles, CheckCombiner file list view, Sparkle auto-update, Dev Environment support.</description>
-      <pubDate>Sun, 20 Apr 2026 23:56:00 +0000</pubDate>
+      <title>Version 1.1.0 (Build 3)</title>
+      <description>Fix YearEnd personal checklist: PDF extraction now falls back to regex for all form types, prevent double review windows on drop, show drop affordance alongside manual entry button.</description>
+      <pubDate>Mon, 21 Apr 2026 16:45:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/76cv5h5nsn-code/starbase-releases/releases/download/v1.1.0/Starbase-1.1.0.zip"
-        sparkle:version="2"
+        url="https://github.com/76cv5h5nsn-code/starbase-releases/releases/download/v1.1.0-b3/Starbase-1.1.0-b3.zip"
+        sparkle:version="3"
         sparkle:shortVersionString="1.1.0"
-        length="11942887"
+        length="12008904"
         type="application/octet-stream"
-        sparkle:edSignature="ZeN93hNJ/OZZSmhG0QQPLuTOZqalOlmu7jb/OEz61YThTBbziVEDjbV1WxswO3FXLj9kZx4ehJTF96z0OSm+Bg=="
+        sparkle:edSignature="DXc/YH+8Qc7OaKXg7HOSyx2l1V2dB10Af5Y0MUMIf2lZiSPxeBvKD0t7t8g1zKAz1jr07uKtGuVkySXP11NeAg=="
       />
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
     </item>
