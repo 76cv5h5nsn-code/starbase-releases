@@ -10,7 +10,7 @@
       <description>Hub Tiles scroll fix, Re-export Stored PDFs on all tiles, CheckCombiner file list view, Sparkle auto-update, Dev Environment support.</description>
       <pubDate>Sun, 20 Apr 2026 23:56:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/76cv5h5nsn-code/StarBase/releases/download/v1.1.0/Starbase-1.1.0.zip"
+        url="https://github.com/76cv5h5nsn-code/starbase-releases/releases/download/v1.1.0/Starbase-1.1.0.zip"
         sparkle:version="2"
         sparkle:shortVersionString="1.1.0"
         length="11942887"
